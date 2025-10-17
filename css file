@@ -1,0 +1,26 @@
+.click-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.click-button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.click-button:hover {
+  background-color: #45a049;
+}
+
+.click-message {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #333;
+}
